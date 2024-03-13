@@ -31,7 +31,7 @@ Steps
 
 ## Usage
 
-🎬 [Click here](https://drive.google.com/file/d/1hcfwGuPmfL5BWGz5HHAQxrwQrjOP104_/view?usp=sharing) to watch a video demonstrating the project’s intended usage.
+🎬 [Click here](https://drive.google.com/file/d/1ckZov6I42zR8Tu5z-Z7c-AwVGhEx7T_V/view?usp=sharing) to watch a video demonstrating the project’s intended usage.
 
 1. Open your terminal
 2. Navigate to the project folder
