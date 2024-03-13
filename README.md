@@ -63,7 +63,17 @@ If you would like to contribute, please contact me (see the _Questions_ section)
 
 ## Tests
 
-...
+This project implements shape classes for Circle, Square, and Triangle, each equipped with a render() method that produces an SVG representation of the shape with a specified color (blue, green, and pink, respectively).
+
+To execute these tests using the Jest testing framework, follow these steps:
+
+1. Install Jest by running the following command in your terminal `npm install -g jest`
+2. Once Jest is installed, you can run the tests by executing `npm test`. This command will trigger Jest to execute the tests defined in the shapes.test.js file.
+
+When running the tests, you should expect to see the following results:
+
+![Image of the expected results within the command line](./assets/images/jest-tests.png)
+
 
 ## Questions
 
